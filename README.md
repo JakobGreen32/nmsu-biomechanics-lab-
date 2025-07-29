@@ -1,1 +1,1 @@
-# nmsu-biomechanics-lab-
+# nmsu-biomechanics-lab
